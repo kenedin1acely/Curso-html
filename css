@@ -31,14 +31,11 @@ p {
   font-style: italic;
 }
   .benefícios {
-  background: #FFFFFF;
-
+    background: #FFFFFF;
+     text-align: center; 
   }
  
   h2 {
    text-align: center; 
   }
-    
-    #atendimento {
-      widht: 50px;
-    }
+   
